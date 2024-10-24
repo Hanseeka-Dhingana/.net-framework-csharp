@@ -1,0 +1,7 @@
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\bin\Debug\Console Programs.exe.config
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\bin\Debug\Console Programs.exe
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\bin\Debug\Console Programs.pdb
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\obj\Debug\Selection Sort.csproj.AssemblyReference.cache
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\obj\Debug\Selection Sort.csproj.CoreCompileInputs.cache
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\obj\Debug\Console Programs.exe
+C:\Users\Hansika\source\repos\Console Programs\Console Programs\obj\Debug\Console Programs.pdb

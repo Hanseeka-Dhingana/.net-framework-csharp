@@ -1,0 +1,6 @@
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\bin\Debug\Bubble Sort.exe
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\bin\Debug\Bubble Sort.pdb
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\obj\Debug\Bubble Sort.exe
+C:\Users\Hansika\source\repos\Console Programs\Bubble Sort\obj\Debug\Bubble Sort.pdb
