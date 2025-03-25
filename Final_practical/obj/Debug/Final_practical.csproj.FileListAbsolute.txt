@@ -1,0 +1,10 @@
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\bin\Debug\Final_practical.exe.config
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\bin\Debug\Final_practical.exe
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\bin\Debug\Final_practical.pdb
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.csproj.AssemblyReference.cache
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.Form1.resources
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.Properties.Resources.resources
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.csproj.GenerateResource.cache
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.csproj.CoreCompileInputs.cache
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.exe
+C:\Users\Hansika\source\repos\Final_practical\Final_practical\obj\Debug\Final_practical.pdb
